@@ -39,6 +39,11 @@
     background: #2f2f2f !important;
 }
 
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
 .owl-carousel .owl-wrapper-outer {
     overflow: hidden;
     position: relative;
